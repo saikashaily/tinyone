@@ -1,0 +1,77 @@
+@media (max-width: 575px) {
+    .phone-image {
+        display: none;
+    }
+    .height {
+        
+        text-align: center;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .nav-item {
+        margin-left: 30px;
+        padding: 10px 0;
+        justify-content: center;
+        display: inline-flex;
+    }
+    .feature_content {
+        
+        margin-bottom: 30px;
+    }
+    .phone {
+        width: 50%;
+        margin: auto;
+        text-align: center;
+    }
+}
+.details {
+    text-align: center;
+}
+.details .heading, .customize_section .heading {
+    text-align: center !important;
+}
+.details .heading span, .customize_section .heading span {
+    margin: auto;
+}
+.details ul {
+    width: 30%;
+    margin: auto;
+}
+
+.form {
+    padding: 27px;
+    width: 67%;
+    bottom: -171px;
+}
+.form .btn-submit {
+    padding: 11px 23px;    
+}
+.ad_section h2 {
+    font-size: 27px;
+    text-align: center;
+}
+.text-end {
+    text-align: center !important;
+    padding: 28px;
+}
+.text-center {
+    padding: 22px;
+}
+.footer p {
+    margin: -44px;
+}
+.price_table {
+    border: 1px solid #bab6b6;
+    width: 65%;
+    margin: auto;
+}
+.f_text {
+    text-align: center;
+}
+.col-md-3.right {
+    text-align: center;
+}
+.ending {
+    text-align: center;
+}
